@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="toolbar_background">#AD1A17</color>
+    <color name="white">#FFFFFF</color>
+    <color name="button_background">#C8C8C8</color>
+    <color name="black">#FF000000</color>
+
+    <color name="spirit">#FCB75E</color>
+    <color name="talk">#A1DCA4</color>
+    <color name="scharang_tv">#AFC8F0</color>
+
+</resources>
